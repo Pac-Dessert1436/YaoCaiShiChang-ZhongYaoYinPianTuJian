@@ -19,7 +19,9 @@
 ### 下载或克隆项目
 
 直接在本页面下载源代码，或使用 Git 克隆项目到本地：
-* `git clone <项目仓库地址>`
+```
+git clone https://github.com/Pac-Dessert1436/YaoCaiShiChang-ZhongYaoYinPianTuJian.git
+```
 
 ### 配置环境
 
@@ -47,4 +49,4 @@
 如果你有任何问题或建议，可以通过以下方式联系我：
 
 * 作者邮箱：benjamin_2001@qq.com
-* 项目 GitHub 地址：https://github.com/<用户名>/<项目仓库名>
+* 项目 GitHub 地址：https://github.com/Pac-Dessert1436/YaoCaiShiChang-ZhongYaoYinPianTuJian
