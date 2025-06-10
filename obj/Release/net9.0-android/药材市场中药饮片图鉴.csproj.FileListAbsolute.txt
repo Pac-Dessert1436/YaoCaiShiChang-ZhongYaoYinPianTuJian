@@ -1,0 +1,230 @@
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\bin\Release\net9.0-android\药材市场中药饮片图鉴.runtimeconfig.json
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\bin\Release\net9.0-android\药材市场中药饮片图鉴.dll
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\bin\Release\net9.0-android\药材市场中药饮片图鉴.pdb
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\bin\Release\net9.0-android\pers.pacdessert1436.herbalmedicinecollection.apk
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\bin\Release\net9.0-android\pers.pacdessert1436.herbalmedicinecollection.aab
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\bin\Release\net9.0-android\pers.pacdessert1436.herbalmedicinecollection-Signed.aab
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\bin\Release\net9.0-android\pers.pacdessert1436.herbalmedicinecollection-Signed.apk
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\bin\Release\net9.0-android\pers.pacdessert1436.herbalmedicinecollection-Signed.apk.idsig
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\build.props
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\adb.props
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\_CompileBindingJava.FileList.txt
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\libraryprojectimports.cache
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\case_map.txt
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\__Microsoft.Android.Resource.Designer.cs
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res.flag
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\R.txt
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\_Microsoft.Android.Resource.Designer.dll
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\R.cs.flag
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.dll
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.pdb
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.runtimeconfig.json.bin
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\bin\pers.pacdessert1436.herbalmedicinecollection.apk
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\bin\base.zip
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\bin\pers.pacdessert1436.herbalmedicinecollection.aab
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\bin\pers.pacdessert1436.herbalmedicinecollection.apks
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\go_back_button.xml
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\left_button.xml
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\more_info_button.xml
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\right_button.xml
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\layout\activity_main.xml
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\layout\medicine_details.xml
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-anydpi-v26\appicon.xml
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-anydpi-v26\appicon_round.xml
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\values\ic_launcher_background.xml
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\values\strings.xml
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-hdpi\appicon_background.png
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-hdpi\appicon_foreground.png
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-mdpi\appicon_background.png
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-mdpi\appicon_foreground.png
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xhdpi\appicon.png
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xhdpi\appicon_background.png
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xhdpi\appicon_foreground.png
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xxhdpi\appicon_background.png
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xxhdpi\appicon_foreground.png
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xxxhdpi\appicon_background.png
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xxxhdpi\appicon_foreground.png
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\astragalus_membranaceus.jpg
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\chrysanthemum_indicum.jpg
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\citrus_reticulata.jpg
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\crataegus_pinnatifida.jpg
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\dendrobium_officinale.jpg
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\dioscorea_opposita.jpg
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\ficushirta_vahl.jpg
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\lilium_brownii.jpg
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\nelumbo_nucifera.jpg
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\panax_notoginseng.jpg
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\pegasus_laternarius.jpg
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\prunus_persica.jpg
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\pyrus_pyrifolia.jpg
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\rosa_rugosa.jpg
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\wolfiporia_cocos.jpg
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\uploadflags.txt
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\resolvedassemblies.hash
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\typemaps.arm64-v8a.ll
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\typemaps.x86_64.ll
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\AndroidManifest.xml
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\AndroidManifest.xml
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\src\mono\JavaInteropTypeManager.java
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\assets\machine.config
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\bin\mono.android.jar
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\static.flag
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\__environment__.txt
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\environment.arm64-v8a.ll
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\environment.x86_64.ll
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\src\crc64e4a8d36244cca74b\MainActivity.java
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\bin\packaged_resources
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\src\pers\pacdessert1436\herbalmedicinecollection\R.java
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\_CompileJava.FileList.txt
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\compressed_assemblies.arm64-v8a.ll
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\compressed_assemblies.x86_64.ll
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\typemaps.arm64-v8a.o
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\typemaps.x86_64.o
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\environment.arm64-v8a.o
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\environment.x86_64.o
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\compressed_assemblies.arm64-v8a.o
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\compressed_assemblies.x86_64.o
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\marshal_methods.arm64-v8a.o
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\marshal_methods.x86_64.o
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\jni_remap.arm64-v8a.o
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\jni_remap.x86_64.o
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\bin\classes.dex
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_CompileJava.stamp
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_CompileToDalvik.stamp
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_ConvertCustomView.stamp
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_ConvertResourcesCases.stamp
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_GenerateJavaStubs.stamp
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-hdpi\appicon.png
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-mdpi\appicon.png
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xxhdpi\appicon.png
+C:\Users\Administrator\Desktop\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xxxhdpi\appicon.png
+D:\My .NET Projects\药材市场中药饮片图鉴\bin\Release\net9.0-android\药材市场中药饮片图鉴.runtimeconfig.json
+D:\My .NET Projects\药材市场中药饮片图鉴\bin\Release\net9.0-android\药材市场中药饮片图鉴.dll
+D:\My .NET Projects\药材市场中药饮片图鉴\bin\Release\net9.0-android\药材市场中药饮片图鉴.pdb
+D:\My .NET Projects\药材市场中药饮片图鉴\bin\Release\net9.0-android\pers.pacdessert1436.herbalmedicinecollection.apk
+D:\My .NET Projects\药材市场中药饮片图鉴\bin\Release\net9.0-android\pers.pacdessert1436.herbalmedicinecollection.aab
+D:\My .NET Projects\药材市场中药饮片图鉴\bin\Release\net9.0-android\pers.pacdessert1436.herbalmedicinecollection-Signed.aab
+D:\My .NET Projects\药材市场中药饮片图鉴\bin\Release\net9.0-android\pers.pacdessert1436.herbalmedicinecollection-Signed.apk
+D:\My .NET Projects\药材市场中药饮片图鉴\bin\Release\net9.0-android\pers.pacdessert1436.herbalmedicinecollection-Signed.apk.idsig
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\build.props
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\adb.props
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\_CompileBindingJava.FileList.txt
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\libraryprojectimports.cache
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_BuildLibraryImportsCache.stamp
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\case_map.txt
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\__Microsoft.Android.Resource.Designer.cs
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res.flag
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\R.txt
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\_Microsoft.Android.Resource.Designer.dll
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\R.cs.flag
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.GeneratedMSBuildEditorConfig.editorconfig
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.AssemblyInfoInputs.cache
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.AssemblyInfo.cs
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.csproj.CoreCompileInputs.cache
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.dll
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.pdb
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.genruntimeconfig.cache
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\药材市场中药饮片图鉴.runtimeconfig.json.bin
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\bin\pers.pacdessert1436.herbalmedicinecollection.apk
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\bin\base.zip
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\bin\pers.pacdessert1436.herbalmedicinecollection.aab
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\bin\pers.pacdessert1436.herbalmedicinecollection.apks
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\go_back_button.xml
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\left_button.xml
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\more_info_button.xml
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\right_button.xml
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\layout\activity_main.xml
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\layout\medicine_details.xml
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-anydpi-v26\appicon.xml
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-anydpi-v26\appicon_round.xml
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\values\ic_launcher_background.xml
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\values\strings.xml
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-hdpi\appicon.png
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-hdpi\appicon_background.png
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-hdpi\appicon_foreground.png
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-mdpi\appicon.png
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-mdpi\appicon_background.png
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-mdpi\appicon_foreground.png
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xhdpi\appicon.png
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xhdpi\appicon_background.png
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xhdpi\appicon_foreground.png
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xxhdpi\appicon.png
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xxhdpi\appicon_background.png
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xxhdpi\appicon_foreground.png
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xxxhdpi\appicon.png
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xxxhdpi\appicon_background.png
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\mipmap-xxxhdpi\appicon_foreground.png
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\astragalus_membranaceus.jpg
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\chrysanthemum_indicum.jpg
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\citrus_reticulata.jpg
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\crataegus_pinnatifida.jpg
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\dendrobium_officinale.jpg
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\dioscorea_opposita.jpg
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\ficushirta_vahl.jpg
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\lilium_brownii.jpg
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\nelumbo_nucifera.jpg
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\panax_notoginseng.jpg
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\pegasus_laternarius.jpg
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\prunus_persica.jpg
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\pyrus_pyrifolia.jpg
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\rosa_rugosa.jpg
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\res\drawable\wolfiporia_cocos.jpg
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\uploadflags.txt
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\resolvedassemblies.hash
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\typemaps.arm64-v8a.ll
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\typemaps.x86_64.ll
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\AndroidManifest.xml
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\AndroidManifest.xml
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\src\mono\MonoRuntimeProvider.java
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\src\mono\JavaInteropTypeManager.java
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\assets\machine.config
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\bin\mono.android.jar
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\static.flag
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\__environment__.txt
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\environment.arm64-v8a.ll
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\environment.x86_64.ll
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\src\crc64e4a8d36244cca74b\MainActivity.java
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\src\mono\android\app\ApplicationRegistration.java
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\src\mono\MonoPackageManager_Resources.java
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\bin\packaged_resources
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\src\pers\pacdessert1436\herbalmedicinecollection\R.java
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\_CompileJava.FileList.txt
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\compressed_assemblies.arm64-v8a.ll
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\compressed_assemblies.x86_64.ll
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\typemaps.arm64-v8a.o
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\typemaps.x86_64.o
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\environment.arm64-v8a.o
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\environment.x86_64.o
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\compressed_assemblies.arm64-v8a.o
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\compressed_assemblies.x86_64.o
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\marshal_methods.arm64-v8a.o
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\marshal_methods.x86_64.o
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\jni_remap.arm64-v8a.o
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\jni_remap.x86_64.o
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\app_shared_libraries\x86_64\libxamarin-app.so
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\android\bin\classes.dex
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_CleanIntermediateIfNeeded.stamp
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_CompileJava.stamp
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_CompileToDalvik.stamp
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_ConvertCustomView.stamp
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_ConvertResourcesCases.stamp
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_GenerateJavaStubs.stamp
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_GeneratePackageManagerJava.stamp
+D:\My .NET Projects\药材市场中药饮片图鉴\obj\Release\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
