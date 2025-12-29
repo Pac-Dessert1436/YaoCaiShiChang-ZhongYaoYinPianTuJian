@@ -9,7 +9,7 @@ public sealed class MainActivity : Activity
     private ImageView? herbImage;
     private TextView? txtName, txtLatinName, txtProperties, txtUsage, txtDetailsTitle;
     private Button? btnPrev, btnNext, btnMoreInfo, btnGoBack;
-
+    
     protected override void OnCreate(Bundle? savedInstanceState)
     {
         base.OnCreate(savedInstanceState);
